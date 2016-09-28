@@ -1,11 +1,8 @@
 # hello-world
 pain itself
 
-Hello,
+Hello, here to learn.
 
-Here to learn.
-
-Tutti Frutti,
+Tutti Frutti, 
 Radu
-
 ^_^
